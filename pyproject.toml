@@ -1,0 +1,14 @@
+[project]
+name = "complete-elliptic-integral"
+version = "0.1.0"
+description = "Computes Legendre elliptic integrals of the first and second kind via the arithmetic-geometric mean iteration."
+requires-python = ">=3.10"
+dependencies = []
+readme = "README.md"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
