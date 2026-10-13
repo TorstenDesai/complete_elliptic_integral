@@ -1,6 +1,6 @@
 [project]
 name = "complete-elliptic-integral"
-version = "0.1.0"
+version = "0.1.1"
 description = "Computes Legendre elliptic integrals of the first and second kind via the arithmetic-geometric mean iteration."
 requires-python = ">=3.10"
 dependencies = []
